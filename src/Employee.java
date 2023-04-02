@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Employee {
+
+public interface Employee {
+    void printPosition();
+
 }
